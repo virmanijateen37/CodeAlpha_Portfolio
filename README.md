@@ -35,4 +35,4 @@ This site showcases my skills, services, and personal brand as a web developer, 
 - Update `script.js` to adjust typing speed or scroll animations.
 
 ## 📜 License
-This project is open-source and free to use.
+This project is created by JATEEN VIRMANI
